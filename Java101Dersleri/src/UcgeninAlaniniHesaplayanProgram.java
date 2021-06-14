@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class DikUcgendeHipotenusBulanProgram {
+public class UcgeninAlaniniHesaplayanProgram {
 
 	public static void main(String[] args) {
 		int a,b,c;
