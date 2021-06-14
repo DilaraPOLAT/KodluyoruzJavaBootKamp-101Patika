@@ -4,7 +4,7 @@ public class UcgeninAlaniniHesaplayanProgram {
 
 	public static void main(String[] args) {
 		int a,b,c;
-		Double alan,cevre;
+		double alan,cevre;
 		Scanner scan=new Scanner(System.in);
 		
 		System.out.println("a kenarý giriniz:");
